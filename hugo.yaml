@@ -139,7 +139,7 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-linkedin
-          url: https://example.com
+          url: https://www.linkedin.com/in/kyung-yul-kim-63b61719a/
         # - icon: fab fa-x-twitter
         #   url: https://example.com
       customIcons:
@@ -359,6 +359,12 @@ params:
     #   emailCaption: "Enter your email address"
     #   messageCaption: "Enter your message here"
     #   messageRows: 5
+  recentPosts:
+    enable: true
+    path: "projects"
+    count: 3
+    title: Recent Projects
+    disableFeaturedImage: false
 
   footer:
     recentPosts:
@@ -369,7 +375,7 @@ params:
       disableFeaturedImage: false
     socialNetworks:
       # github: https://github.com
-      linkedin: https://linkedin.com
+      linkedin: https://www.linkedin.com/in/kyung-yul-kim-63b61719a/
       # twitter: https://twitter.com
       # instagram: https://instagram.com
       # facebook: https://facebook.com
