@@ -1,6 +1,6 @@
 baseURL: "https://k-yul.github.io"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Kyung Yul"
 theme: hugo-profile
 
 outputs:
@@ -29,16 +29,7 @@ Menus:
       title: Blog posts
       url: /blogs
       weight: 1
-    - identifier: gallery
-      name: Gallery
-      title: Blog posts
-      url: /gallery
-      weight: 2
-    - identifier: projects
-      name: Projects
-      title: My projects
-      url: /projects
-      weight: 3
+
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -61,7 +52,7 @@ params:
   title: "Hugo Profile"
   description: Text about my cool site
   staticPath: ""  # The path to serve the static files from
-  favicon: "/fav.png"
+  # favicon: "/fav.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -356,11 +347,11 @@ params:
 
   #Contact
   contact:
-    enable: true
+    enable: false
     # title: "Custom Name"
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
     btnName: Mail me
-    btnLink: mailto:gurusabarisha@gmail.com
+    btnLink: mailto:kyungyul25@gmail.com
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
@@ -376,11 +367,11 @@ params:
       enable: false
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
+      # github: https://github.com
       linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      # twitter: https://twitter.com
+      # instagram: https://instagram.com
+      # facebook: https://facebook.com
 
   # List pages like blogs and posts
   listPages:
