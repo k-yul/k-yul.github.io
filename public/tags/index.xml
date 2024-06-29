@@ -6,8 +6,22 @@
     <description>Recent content in Tags on Kyung Yul</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 22:53:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Healthcare</title>
+      <link>http://localhost:1313/tags/healthcare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/healthcare/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Project</title>
+      <link>http://localhost:1313/tags/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/project/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Example</title>
       <link>http://localhost:1313/tags/example/</link>
