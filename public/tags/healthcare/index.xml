@@ -13,7 +13,7 @@
       <link>http://localhost:1313/projects/project_1/</link>
       <pubDate>Mon, 10 Jun 2024 22:53:58 +0530</pubDate>
       <guid>http://localhost:1313/projects/project_1/</guid>
-      <description>Project 1 This is stuff about my project</description>
+      <description>Project 1 This is stuff about my project&#xA;Background Blah blah blah</description>
     </item>
   </channel>
 </rss>

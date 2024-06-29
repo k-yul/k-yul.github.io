@@ -14,3 +14,10 @@ toc:
 # Project 1
 
 This is stuff about my project
+
+## Background
+
+Blah blah blah
+
+
+![Test Image](/me.png)

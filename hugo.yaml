@@ -128,7 +128,7 @@ params:
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
     image: /images/hero.svg
     bottomImage:
-      enable: true
+      enable: false
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
