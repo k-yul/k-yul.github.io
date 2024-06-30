@@ -367,12 +367,6 @@ params:
     disableFeaturedImage: false
 
   footer:
-    recentPosts:
-      path: "projects"
-      count: 3
-      title: Projects
-      enable: false
-      disableFeaturedImage: false
     socialNetworks:
       # github: https://github.com
       linkedin: https://www.linkedin.com/in/kyung-yul-kim-63b61719a/
