@@ -1,34 +1,34 @@
 ---
-title: "Redesigning the Health Insurance Enrollment Experience"
+title: "UX Case Study: Redesigning the Health Insurance Enrollment Experience"
 date: 2024-06-30T23:29:21+05:30
 draft: false
 author: "Kyung Yul Kim"
 tags:
-  - Case study
+  - case study
   - health insurance
   - healthcare
-image: /images/post.jpg
-description: "UX Case Study"
-toc:
+  - open enrollment
+image: /images/health_insurance/health_7.jpg
+description: 
+summary: "The project aims to redesign the online enrollment process for a major health insurance provider to improve user experience, reduce drop-off rates, and increase successful enrollments."
+toc: true
 ---
 
 
-# UX Case Study: Redesigning the Health Insurance Enrollment Experience
+# Redesigning the Health Insurance Enrollment Experience
 
 
-## **Introduction**
-
-**Project Title**: Redesigning the Health Insurance Enrollment Experience
+## Introduction
 
 **Project Overview**: The project aims to redesign the online enrollment process for a major health insurance provider to improve user experience, reduce drop-off rates, and increase successful enrollments.
 
-**Your Role**: Leed designer in user research, design, prototyping, and usability testing.
+**My Role**: Lead designer in user research, design, prototyping, and usability testing.
 
 
 ---
 
 
-## **Problem Statement**
+## Problem Statement
 
 **The Challenge**: The existing enrollment process was lengthy, confusing, and resulted in a high abandonment rate. Users struggled with understanding insurance plans, completing forms, and navigating the website and ended up using insurance brokers provided by the website to figure out their insurance needs.
 
@@ -38,16 +38,15 @@ toc:
 ---
 
 
-## **Research**
+## Research
 
-**User Research**:
-
+### User Research
 
 
 * **Methods Used**: Surveys, user interviews, and usability testing of the current website.
 * **Participants**: 10 individuals who had previously attempted to enroll in health insurance online.
 
-**Key Findings**:
+### Key Findings
 
 
 
@@ -58,15 +57,15 @@ toc:
 ---
 
 
-## **Ideation**
+## Ideation
 
-**Brainstorming**:
+### Brainstorming
 
 
 
 * Utilized techniques such as mind mapping and sketching to generate ideas.
 
-**Concept Development**:
+### Concept Development
 
 
 
@@ -77,16 +76,16 @@ toc:
 ---
 
 
-## **Design**
+## Design
 
-**Wireframes and Prototypes**:
+### Wireframes and Prototypes
 
 
 
 * Created low-fidelity wireframes to map out the new user flow.
 * Developed high-fidelity prototypes using Figma, incorporating visual elements and interactions.
 
-**Design Decisions**:
+### Design Decisions
 
 
 
@@ -99,15 +98,15 @@ toc:
 ---
 
 
-## **Testing and Validation**
+## Testing and Validation
 
-**Usability Testing**:
+### Usability Testing
 
 
 
 * Conducted usability testing with 10 participants using the high-fidelity prototype.
 
-**Iterations**:
+### Iterations
 
 
 
@@ -117,16 +116,22 @@ toc:
 ---
 
 
-## **Final Solution**
-
-**Final Design**:
+## Final Solution
 
 
+![Health Insurance App 1](/images/health_insurance/health_1.jpg)
+![Health Insurance App 1](/images/health_insurance/health_2.jpg)
+![Health Insurance App 1](/images/health_insurance/health_3.jpg)
+![Health Insurance App 1](/images/health_insurance/health_4.jpg)
+![Health Insurance App 1](/images/health_insurance/health_5.jpg)
+![Health Insurance App 1](/images/health_insurance/health_6.jpg)
+![Health Insurance App 1](/images/health_insurance/health_7.jpg)
+![Health Insurance App 1](/images/health_insurance/health_8.jpg)
 
 * Presented a clean, intuitive design with a step-by-step enrollment process.
 * Key features included a simplified plan comparison tool, secure data entry forms, and real-time assistance.
 
-**Implementation**:
+### Implementation
 
 
 
@@ -136,9 +141,9 @@ toc:
 ---
 
 
-## **Results and Impact**
+## Results and Impact
 
-**Outcomes**:
+### Outcomes
 
 
 
@@ -146,7 +151,7 @@ toc:
 * **Increased Completion Rate**: Successful enrollments increased by 20%.
 * **User Satisfaction**: Post-implementation surveys indicated a 40% increase in user satisfaction.
 
-**Feedback**:
+### Feedback
 
 
 
@@ -157,25 +162,21 @@ toc:
 ---
 
 
-## **Reflection**
+## Reflection
 
-**What Went Well**:
+### What Went Well
 
 
 
 * Successful implementation of a user-centered design process.
 * Positive impact on the abandonment and completion rates.
 
-**Challenges**:
-
-
+### Challenges
 
 * Trying to create a new design from scratch
 * Ensuring compliance with regulatory requirements while simplifying the process.
 
-**Learnings**:
-
-
+### Learnings
 
 * Importance of continuous user feedback and iterative design.
 * Need for cross-functional collaboration to align design and technical implementation.
@@ -184,13 +185,13 @@ toc:
 ---
 
 
-## **Conclusion**
+## Conclusion
 
-**Summary**: The redesign significantly improved the health insurance enrollment experience, making it more user-friendly and effective in driving successful enrollments.
+### Summary
 
-**Future Steps**:
+The redesign significantly improved the health insurance enrollment experience, making it more user-friendly and effective in driving successful enrollments.
 
-
+### Future Steps
 
 * Plan to introduce personalized plan recommendations based on user data.
 * Ongoing usability testing and refinement to keep improving the experience.
